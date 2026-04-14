@@ -11,7 +11,6 @@ The project includes full data preprocessing, exploratory data analysis (EDA), f
   - Activity indicators (IsActiveMember, HasCrCard)
 - Target variable:
   - `Exited` (1 = Churned, 0 = Retained)
-  - 
 ## 🔍 Exploratory Data Analysis
 Key insights from EDA:
 - Active members are significantly less likely to churn
