@@ -32,4 +32,4 @@ Visualisations were created using Plotly, Matplotlib and Seaborn to compare chur
 
 ## Results 
 - Best Model: XGBoost with Optuna, with Age Binning and encoding.
-- Kaggle Competition Scores on TestSet: Private: 0.8061, Public: 0.80536
+- Kaggle Competition Scores on Test Set: Private: 0.8061, Public: 0.80536
